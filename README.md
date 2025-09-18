@@ -1,0 +1,3 @@
+Nos arquivos jupyter cap_7 e review tabelas_Rio junto com planilha excel Location_mean tem estudos de classificação por nivel de poluição de rios. Depois talvez de para evoluir com o prórpio rio...
+
+No arquivo ser_que_vai e tablea.xslx tem testes para regressão de parametros de rios. Infelizmente as acurácias se mostraram muito pequenas para todos eles. Talvez o próximo passo seria tentar fazer regressão com metagenomas? Tensorflow? (FUTURO) - (ESQUECE POR ENQUANTO!)
